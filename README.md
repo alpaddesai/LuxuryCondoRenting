@@ -2,4 +2,4 @@
 
 Overview of the project of luxury condo renting
 
-![image]()
+![image](LuxuryCondoRenting.jpg)
