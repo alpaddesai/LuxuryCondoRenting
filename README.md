@@ -2,6 +2,8 @@
 
 Overview of the project of luxury condo renting
 
+![image](LuxuryCondo.jpg)
+
 ![image](LuxuryCondoRenting.jpg)
 
 ![image](EthicsandExcellence.png)
