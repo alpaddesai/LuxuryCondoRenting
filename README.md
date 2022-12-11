@@ -1,4 +1,4 @@
-# Luxury Condo Renting 2022
+# Luxury Condo Renting 
 
 Overview of the project of luxury condo renting
 
@@ -12,4 +12,4 @@ Overview of the project of luxury condo renting
 
 ![imaged](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022
+Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
