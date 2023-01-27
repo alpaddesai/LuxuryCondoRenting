@@ -10,4 +10,4 @@ Overview of the project of luxury condo renting
 
 ![imaged](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea
+Additional details reference https://github.com/alpaddesai/LifeStyle
